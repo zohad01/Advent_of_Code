@@ -1,0 +1,11 @@
+# AoC Inputs
+input.txt
+*.in
+inputs/
+
+# System/IDE files
+.DS_Store
+.vscode/
+__pycache__/
+*.exe
+*.o
